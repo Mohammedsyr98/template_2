@@ -1,2 +1,2 @@
 # template_2
-Used Html &amp; Css only in this template
+Only Html & Css is used in this template
